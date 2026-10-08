@@ -214,4 +214,4 @@ CATrain is provided as a **full free version** with **all features and updates i
 Ready to embark on your model railroad adventure? Download CATrain now and start creating your dream layout today!
 
 ---
-**Last updated:** 2026-10-08 09:36:16 UTC
+**Last updated:** 2026-10-08 17:01:24 UTC
